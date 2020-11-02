@@ -1,0 +1,4 @@
+fuck you
+i'm not ready to commit
+i will not commit this
+i will save this as git stash
